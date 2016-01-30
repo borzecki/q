@@ -12,11 +12,6 @@ def exit_with_error(message):
     click.secho(message, err=True, bg='red', fg='white')
     sys.exit(0)
 
-@click.command()
-@click.option('--list-engines', '-l', is_flag=True, help='List all search engines with options.')
-def list_engines(list):
-    if list:
-        print list
 
 @click.command()
 @click.option('--search-engine', '-e', default='google', help='Search engine.')
