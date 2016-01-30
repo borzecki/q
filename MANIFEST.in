@@ -1,0 +1,5 @@
+# Include the license file
+# include LICENSE.txt
+
+# Include the data files
+recursive-include quicksearch search_engines *.json
