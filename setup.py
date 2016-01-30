@@ -9,7 +9,7 @@ dependencies = ['click']
 
 setup(
     name='quicksearch',
-    version='0.1.0',
+    version='0.1.1',
     url='https://github.com/borzecki/q',
     license='MIT',
     author=u'Daniel Borzęcki',
