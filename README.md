@@ -38,8 +38,13 @@ And many more!
 # Currently supported engines
 
 * github
-* google -o maps
+* google
+ * maps
+ * weather
+ * inbox
 * reddit
+ * sub
 * spotify
+* duckduckgo
 * stackoverflow
 * wikipedia
