@@ -39,6 +39,10 @@ def main(search_engine, search_option, list_engines, query):
             engine_data = get_config(name)
             break
 
+    # read from standard input if available
+    if not sys.stdin.isatty():
+        query = sys.stdin.read()
+
     if not query:
         exit_with_error('Query parameter is missing.')
 

@@ -5,7 +5,7 @@ Quick search command tool for your terminal.
 # Usage
 
 ```
-Usage: cli.py [OPTIONS] QUERY...
+Usage: q [OPTIONS] QUERY...
 
   Quick search command tool for your terminal
 
