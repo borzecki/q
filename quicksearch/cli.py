@@ -53,7 +53,7 @@ def main(search_engine, search_option, list_engines, query):
         exit_with_error('Option ``{0}`` not available for engine ``{1}``'.\
                         format(search_option, search_engine))
 
-    query = u' '.join(query)
+    query = u' '.join(query) if isinstance(query, tuple) else query
     engine_url = engine_data.get(search_option)
     url = engine_url.format(query).encode('utf-8')
     launch.open(url)
