@@ -1,1 +1,1 @@
-{"default": "https://www.reddit.com/search?q={0}"}
+{"default": "https://www.reddit.com/search?q={0}", "sub": "https://www.reddit.com/search?q=subreddit:{0}"}
