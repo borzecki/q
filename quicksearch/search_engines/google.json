@@ -1,1 +1,1 @@
-{"default": "https://www.google.com/search?q={0}", "maps": "https://www.google.pl/maps/search/{0}/"}
+{"default": "https://www.google.com/search?q={0}", "weather": "https://www.google.com/search?q=weather {0}", "maps": "https://www.google.pl/maps/search/{0}/"}
