@@ -48,3 +48,9 @@ And many more!
 * duckduckgo
 * stackoverflow
 * wikipedia
+
+# Example aliases :sparkles:
+
+```alias qd='q -e duckduckgo'
+alias qr='q -e reddit'
+alias qm='q -o maps'```
