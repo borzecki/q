@@ -65,6 +65,8 @@ And many more!
  * dumpert
  * engadget
  * facebook
+  * people
+  * pages
  * flickr
  * flipkart
  * foursquare
