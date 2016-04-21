@@ -37,17 +37,100 @@ And many more!
 
 # Currently supported engines
 
-* github
-* google
- * maps
- * weather
+ * 500px
+ * 8tracks
+ * amazon
+ * archpkg
+ * archwiki
+ * arstechnica
+ * arxiv
+ * atmospherejs
+ * aur
+ * baidu
+ * bandcamp
+ * bgr
+ * bing
+ * buzzfeed
+ * cnn
+ * codepen
+ * coursera
+ * cplusplus
+ * crunchyroll
+ * debianpkg
+ * digg
+ * diigo
+ * dockerhub
+ * dribbble
+ * duckduckgo
+ * dumpert
+ * engadget
+ * facebook
+ * flickr
+ * flipkart
+ * foursquare
+ * gist
+ * github
+ * gmail
+ * go
+ * godoc
+ * google
+  * maps
+  * weather
+  * inbox
+ * googledocs
+ * googleplus
+ * hackernews
+ * ietf
+ * ifttt
+ * imdb
+ * imgur
  * inbox
-* reddit
- * sub
-* spotify
-* duckduckgo
-* stackoverflow
-* wikipedia
+ * instagram
+ * kickasstorrents
+ * libgen
+ * linkedin
+ * lmgtfy
+ * macports
+ * mdn
+ * medium
+ * metacpan
+ * msdn
+ * naver
+ * netflix
+ * nhaccuatui
+ * npm
+ * npmsearch
+ * npr
+ * nvd
+ * overstock
+ * packagist
+ * phandroid
+ * php
+ * pinterest
+ * python
+ * quora
+ * reddit
+  * sub
+ * rottentomatoes
+ * rubygems
+ * soundcloud
+ * spotify
+ * stackoverflow
+ * steam
+ * taobao
+ * thepiratebay
+ * theregister
+ * torrentz
+ * twitchtv
+ * twitter
+ * unity3d
+ * upcloud
+ * vimeo
+ * wikipedia
+ * wolframalpha
+ * yahoo
+ * yandex
+ * youtube
 
 # Example aliases :sparkles:
 
@@ -55,4 +138,12 @@ And many more!
 alias qd='q -e duckduckgo'
 alias qr='q -e reddit'
 alias qm='q -o maps'
+```
+
+# Bash completion :bomb:
+
+In order to use autocomplete functionality simply add this line to your ``.bash_profile`` or ``.bashrc`` file
+
+```bash
+source ~/path/to/q/complete/q-complete.sh
 ```
