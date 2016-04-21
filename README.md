@@ -51,6 +51,8 @@ And many more!
 
 # Example aliases :sparkles:
 
-```alias qd='q -e duckduckgo'
+```bash
+alias qd='q -e duckduckgo'
 alias qr='q -e reddit'
-alias qm='q -o maps'```
+alias qm='q -o maps'
+```
