@@ -1,1 +1,1 @@
-{"default": "https://datatracker.ietf.org/doc/search/"}
+{"default": "https://datatracker.ietf.org/doc/search/?name={0}&sort=&rfcs=on&activedrafts=on"}

@@ -1,4 +1,6 @@
 # q
+[![Build Status](https://travis-ci.org/borzecki/q.svg)](https://travis-ci.org/borzecki/q)
+[![PyPI version](https://badge.fury.io/py/quicksearch.svg)](https://badge.fury.io/py/quicksearch)
 
 Quick search command tool for your terminal.
 
